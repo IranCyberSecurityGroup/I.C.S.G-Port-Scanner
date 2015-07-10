@@ -11,7 +11,7 @@ use IO::Socket::INET;
 #Iran-Cyber.Org
 #
 #Love To: root3r | MOHAMAD-NOFOZI | KamraN HellisH | JOK3R | Pi.Hack |
-
+system(($^O eq 'MSWin32') ? 'cls' : 'clear');
 print q {
  _____                             _____      _                      ____
  |_   _|                           / ____|    | |                    / __ \
